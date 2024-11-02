@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi There! I'm Vijay:
 👋 Hello! I'm a data science enthusiast currently pursuing a Data Science course at Innomatics Research Labs 📊📈.<br> My GitHub profile showcases projects reflecting my journey in analytics, machine learning 🤖, and data visualization 📉.<br> I'm dedicated to building skills in Python 🐍, data analysis 📑, and AI 🌐, aiming to make impactful contributions in the field of data science.<br> Explore my repositories to see my latest work, and feel free to connect 🤝 or reach out if you're interested in collaborating!
 
 
