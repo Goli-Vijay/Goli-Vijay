@@ -91,7 +91,6 @@
 ---
 
 <!-- Footer -->
-<h2 align="center">👀 Profile Views</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Goli-VIjay&style=for-the-badge&color=blue"/>
+  <b>Thanks for visiting my profile! 😊</b>
 </p>
