@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Vijay%20Goli%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Vijay%20Goli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 ---
@@ -17,20 +17,12 @@
 
 ---
 
-<!-- Quote of the Day -->
-<h2 align="center">💬 Quote of the Day</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-</p>
-
----
-
 <!-- Data Analysis Workflow -->
 <h2 align="center">🔄 Data Analysis Workflow</h2>
 <p align="center">
-  <img src="https://img.icons8.com/color/96/data-configuration.png"/>
+  <img src="https://img.icons8.com/color/96/database.png"/>
   <img src="https://img.icons8.com/color/96/cleaning-a-surface.png"/>
-  <img src="https://img.icons8.com/color/96/data-analytics.png"/>
+  <img src="https://img.icons8.com/color/96/data-configuration.png"/>
   <img src="https://img.icons8.com/color/96/combo-chart--v1.png"/>
   <img src="https://img.icons8.com/color/96/idea.png"/>
 </p>
@@ -84,15 +76,6 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Goli-VIjay&theme=darkhub&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
-<!-- Skill Radar Chart -->
-<h2 align="center">📈 Skill Radar</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Goli-VIjay&theme=tokyonight&utcOffset=8" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goli-VIjay&theme=tokyonight" height="180"/>
 </p>
 
 ---
