@@ -1,20 +1,114 @@
-# 💫 Hi There! I'm Vijay:
-👋Graduate in Computer Science (AI & ML) with hands-on experience in data analysis📊, visualization📈, and automation. Adept at extracting actionable insights💠 through SQL, Python🐍, Excel, and Power BI . I have worked on real world projects which includes ,Global Space Mission Analysis,Pizza Sales Sql Project,Automobile price analysis and Adidas sales analysis. I am keen to apply my analytics💹 understanding on data-driven strategies to solve business📈 challenges.
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vijay Goli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_vijay1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vijay Goli) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Vijay Goli) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Goli-VIjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Goli-VIjay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goli-VIjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Vijay%20Goli%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Goli-VIjay&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Introduction -->
+<p align="center">
+  <b>Data Analyst | Python & Power BI Enthusiast | SQL Developer</b>  
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  Computer Science (AI & ML) graduate with expertise in <b>Data Analysis, Visualization, and Automation</b>.  
+  Skilled in <b>SQL, Python, Pandas, Excel, and Power BI</b>, I specialize in building data-driven solutions that help businesses grow.
+</p>
+
+---
+
+<!-- Quote of the Day -->
+<h2 align="center">💬 Quote of the Day</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+</p>
+
+---
+
+<!-- Data Analysis Workflow -->
+<h2 align="center">🔄 Data Analysis Workflow</h2>
+<p align="center">
+  <img src="https://img.icons8.com/color/96/data-configuration.png"/>
+  <img src="https://img.icons8.com/color/96/cleaning-a-surface.png"/>
+  <img src="https://img.icons8.com/color/96/data-analytics.png"/>
+  <img src="https://img.icons8.com/color/96/combo-chart--v1.png"/>
+  <img src="https://img.icons8.com/color/96/idea.png"/>
+</p>
+<p align="center">
+  <b>Collection → Cleaning → Analysis → Visualization → Insights</b>
+</p>
+
+---
+
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  • Global Space Mission Analysis <br>
+  • Pizza Sales SQL Project <br>
+  • Automobile Price Analysis <br>
+  • Adidas Sales Analysis
+</p>
+
+---
+
+<!-- Tech Stack -->
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">⚡ GitHub Performance</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Goli-VIjay&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goli-VIjay&theme=tokyonight&layout=compact&hide_border=true&hide=C,HTML,CSS&langs_count=5" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goli-VIjay&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Goli-VIjay&theme=darkhub&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+<!-- Skill Radar Chart -->
+<h2 align="center">📈 Skill Radar</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Goli-VIjay&theme=tokyonight&utcOffset=8" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goli-VIjay&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+<!-- Social Links -->
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/VijayGoli"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/the_vijay1"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/VijayGoli"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Footer -->
+<h2 align="center">👀 Profile Views</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Goli-VIjay&style=for-the-badge&color=blue"/>
+</p>
